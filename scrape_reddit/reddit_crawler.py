@@ -125,3 +125,4 @@ if __name__ == "__main__":
     subreddit, pages = args
     c = Crawler(subreddit)
     c.save_comments_submissions(int(pages))
+    #lol
